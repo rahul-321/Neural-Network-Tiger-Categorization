@@ -1,0 +1,1 @@
+The python program categorises a tiger by its pug mark features using neural network. The neural network is first trained and then tested.
